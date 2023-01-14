@@ -16,4 +16,14 @@ use the following command terminal
 # run 1 Introduction to HTML (Or any other one)
 open up using a LIVE SERVER extenstion on VSCODE (my choice)
 ```
+# Quick links to Repo and Live Previews
+
+HTML ASSESSMENTS
++ Marking-up-a-letter-MDN [(REPO)](https://github.com/ChristopherOkay/1-Marking-up-a-letter-MDN-) and [LIVE PREVIEW](https://christopherokay.github.io/1-Marking-up-a-letter-MDN-/) 
++ Structuring-a-page-of-content [(REPO)](https://github.com/ChristopherOkay/2-Structuring-a-page-of-content) and [LIVE PREVIEW](https://christopherokay.github.io/2-Structuring-a-page-of-content/)
++ Mozilla-splash-page [(REPO)](https://github.com/ChristopherOkay/Mozilla-splash-page) and [LIVE PREVIEW](https://christopherokay.github.io/Mozilla-splash-page/)
++ Structuring-a-page-of-content [(REPO)](https://github.com/ChristopherOkay/Structuring-planet-data) and [LIVE PREVIEW](https://christopherokay.github.io/Structuring-planet-data/)
+
+
+
 
