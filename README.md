@@ -24,6 +24,8 @@ HTML ASSESSMENTS
 + Mozilla-splash-page [(REPO)](https://github.com/ChristopherOkay/Mozilla-splash-page) and [LIVE PREVIEW](https://christopherokay.github.io/Mozilla-splash-page/)
 + Structuring-a-page-of-content [(REPO)](https://github.com/ChristopherOkay/Structuring-planet-data) and [LIVE PREVIEW](https://christopherokay.github.io/Structuring-planet-data/)
 
+CSS ASSESSMENTS
++ Styling-a-biography-page [(REPO)](https://github.com/ChristopherOkay/Styling-a-biography-page) and [LIVE PREVIEW](https://christopherokay.github.io/Styling-a-biography-page/) 
 
 
 
