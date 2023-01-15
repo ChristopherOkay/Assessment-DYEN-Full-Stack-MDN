@@ -28,11 +28,11 @@ CSS ASSESSMENTS
 + Styling-a-biography-page [(REPO)](https://github.com/ChristopherOkay/Styling-a-biography-page) and [LIVE PREVIEW](https://christopherokay.github.io/Styling-a-biography-page/) 
 
 + Styling-a-biography-page [(REPO)](https://github.com/ChristopherOkay/1-Fundamental-CSS-comprehension) and [LIVE PREVIEW](https://christopherokay.github.io/1-Fundamental-CSS-comprehension/)
-+ Styling-a-biography-page [(REPO)](https://github.com/ChristopherOkay/2-Creating-fancy-letterheaded-paper/) and [LIVE PREVIEW](https://christopherokay.github.io/2-Creating-fancy-letterheaded-paper/)
-+ Styling-a-biography-page [(REPO)](https://github.com/ChristopherOkay/3-A-cool-looking-box/) and [LIVE PREVIEW](https://christopherokay.github.io/3-A-cool-looking-box/) 
++ Fundamental-CSS-comprehension [(REPO)](https://github.com/ChristopherOkay/2-Creating-fancy-letterheaded-paper/) and [LIVE PREVIEW](https://christopherokay.github.io/2-Creating-fancy-letterheaded-paper/)
++ A-cool-looking-box [(REPO)](https://github.com/ChristopherOkay/3-A-cool-looking-box/) and [LIVE PREVIEW](https://christopherokay.github.io/3-A-cool-looking-box/) 
 
-+ Styling-a-biography-page [(REPO)](https://github.com/ChristopherOkay/Typesetting-a-community-school-homepage/) and [LIVE PREVIEW](https://christopherokay.github.io/Typesetting-a-community-school-homepage/) 
-+ Styling-a-biography-page [(REPO)](https://github.com/ChristopherOkay/Fundamental-layout-comprehension/) and [LIVE PREVIEW](https://christopherokay.github.io/Fundamental-layout-comprehension/) 
++ Typesetting-a-community-school-homepage [(REPO)](https://github.com/ChristopherOkay/Typesetting-a-community-school-homepage/) and [LIVE PREVIEW](https://christopherokay.github.io/Typesetting-a-community-school-homepage/) 
++ Fundamental-layout-comprehension [(REPO)](https://github.com/ChristopherOkay/Fundamental-layout-comprehension/) and [LIVE PREVIEW](https://christopherokay.github.io/Fundamental-layout-comprehension/) 
 
 
 
