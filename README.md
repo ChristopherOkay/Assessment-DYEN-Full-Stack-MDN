@@ -35,6 +35,15 @@ CSS ASSESSMENTS
 + Fundamental-layout-comprehension [(REPO)](https://github.com/ChristopherOkay/Fundamental-layout-comprehension/) and [LIVE PREVIEW](https://christopherokay.github.io/Fundamental-layout-comprehension/) 
 
 
+JAVASCRIPT ASSESSMENTS
++ Silly-story-generator [(REPO)](https://github.com/ChristopherOkay/Silly-story-generator) and [LIVE PREVIEW](https://christopherokay.github.io/Silly-story-generator/) 
++ Image-gallery [(REPO)](https://github.com/ChristopherOkay/Image-gallery) and [LIVE PREVIEW](https://christopherokay.github.io/Image-gallery/hension/)
++ Bouncing-balls-demo [(REPO)](https://github.com/ChristopherOkay/Bouncing-balls-demo/) and [LIVE PREVIEW](https://christopherokay.github.io/Bouncing-balls-demo/)
++ Sequencing-animations [(REPO)](https://github.com/ChristopherOkay/Sequencing-animations) and [LIVE PREVIEW](https://christopherokay.github.io/Sequencing-animations/) 
+
+
+
+
 
 
 
